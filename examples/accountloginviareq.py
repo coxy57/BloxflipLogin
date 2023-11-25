@@ -33,9 +33,9 @@ json_data = {
     'password': password
 }
 
-nigga = b.t.post('https://api.bloxflip.com/user/login', params=params, headers=headers, json=json_data)
+bruh = b.t.post('https://api.bloxflip.com/user/login', params=params, headers=headers, json=json_data)
 
-token = b.bloxflip_funcap_token(nigga.json()['fieldData'])
+token = b.bloxflip_funcap_token(bruh.json()['fieldData'])
 
 
 params = {
@@ -48,7 +48,7 @@ json_data = {
     'affiliateCode': affiliateCode,
     'username': username,
     'password': password,
-    'captchaId': nigga.json()['captchaId'],
+    'captchaId': bruh.json()['captchaId'],
     'captchaToken': token,
 }
 
