@@ -16,4 +16,5 @@ You can contact me through my discord: coxy.57
 ## Roadmap
 
 - Faster
+- Discord Bot ver
 
