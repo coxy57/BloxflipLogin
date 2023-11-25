@@ -13,6 +13,7 @@ import base64
 # made by coxy.57
 # made by coxy.57
 # made by coxy.57
+# thanks to pr0ton for the encrypt and decrypt func :)
 
 
 
