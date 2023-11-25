@@ -1,4 +1,4 @@
-from util import BloxflipLogin
+from utils import BloxflipLogin
 
 b = BloxflipLogin()
 
