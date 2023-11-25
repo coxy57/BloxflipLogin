@@ -2,6 +2,7 @@
 # Bloxflip Auto Login
 
 Gets your JWT (Json Web Token) in a couple of requests bypassing funcaptcha.
+The bda can be so shitty and still work xd
 
 
 ## FAQ
